@@ -1,1 +1,5 @@
-git е алатка за управување со верзии која олеснува тимска соработка и проследување на промени.
+
+
+Git е ALATKA за UPRAVUVANJE со VERZII која OLESNUVA тимска SORABOTKA и PROSLEDUVANJE на PROMENI.
+ zadaca na Filip i Sasko
+
